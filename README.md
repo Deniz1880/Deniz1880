@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deniz1880
 - 👀 I’m interested in software and computer sience. I always keep myself updated, try to learn new things. 
-- 🌱 I’m currently learning frontend technologies such as Js, React, Angular etc.
+- 🌱 I’m currently learning web technologies such as Node and React also interested with data science.
 - 📫 You can reach me from my e-mail address, denizcem1907@outlook.com
 
 <!---
